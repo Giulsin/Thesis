@@ -8,8 +8,8 @@ This folder contains the key data files used for modeling circular economy inter
 
 ### External Data Link
 
-Due to the large size of the EXIOBASE database, the IOT dataset is hosted externally. You can download the dataset from the official EXIOBASE repository here:
+Due to the large size of the EXIOBASE 3 database, the IOT dataset is hosted externally. You can download the dataset from the official ZENODO repository here:
 
-[EXIOBASE 3 Image and Data Repository](https://www.exiobase.eu/)
+[IOT_2020_ixi] https://zenodo.org/records/14614930
 
 Please refer to the EXIOBASE website for download instructions and citation guidelines.
