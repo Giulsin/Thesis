@@ -12,4 +12,4 @@ Due to the large size of the EXIOBASE 3 database, the IOT dataset is hosted exte
 
 [IOT_2020_ixi] https://zenodo.org/records/14614930
 
-Please refer to the EXIOBASE website for download instructions and citation guidelines.
+Please refer to the ZENODO website for download instructions and citation guidelines.
