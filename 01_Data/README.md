@@ -1,10 +1,15 @@
-## External Data Links
+## 01_Data
 
-The multi-regional input-output tables (IOTs) used for this thesis modeling are available externally due to their large size.
+This folder contains the key data files used for modeling circular economy interventions from the National Strategies of Uruguay and Costa Rica. Specifically, it includes:
 
-You can download the IOT dataset from the official EXIOBASE repository here:
+**LATAM_data_entry_file.xlsx**: Aggregates assumptions, primary and secondary changes, and change coefficients for selected circular interventions based on the National Circular Economy Strategies of Costa Rica and Uruguay.
+
+**IOT_2020_ixi**: The EXIOBASE 3 database input-output tables (2020) used for scenario analysis and modeling of the circular interventions.
+
+### External Data Link
+
+Due to the large size of the EXIOBASE database, the IOT dataset is hosted externally. You can download the dataset from the official EXIOBASE repository here:
 
 [EXIOBASE 3 Image and Data Repository](https://www.exiobase.eu/)
 
-Please follow the download and usage instructions provided on the EXIOBASE website.
-
+Please refer to the EXIOBASE website for download instructions and citation guidelines.
